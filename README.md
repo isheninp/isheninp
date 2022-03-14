@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+### Hi there 👋 ☮
 <!--
 **isheninp/isheninp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
